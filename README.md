@@ -2,6 +2,7 @@
 
 🚀  Passionate about software development and technology, I'm constantly seeking new challenges and opportunities to learn and grow. 
      Currently, I'm focused on mastering the intricacies of JavaScript, Python, and Java, while exploring the realms of React and Spring Boot.
+     
 💻  In my toolbox: Proficient in crafting engaging user interfaces with HTML, styling with CSS, and bringing interactivity to life with JavaScript.
      - HTML, CSS, JavaScript, React, Git, VS Code, npm, Postman.
      
